@@ -1,6 +1,9 @@
-# JAVA-OOP-projects
+# JAVA-oop-programming-projects
 
 Object Oriented Programming in Java
+
+The link of the course
+https://classroom.udacity.com/courses/ud283
 
 Here are all the practises and projects in this course
 
@@ -15,3 +18,5 @@ This course covers a variety of somewhat advanced topics in Java:
 Project 1: Guess the movie (Done)
 
 Project 2: Mission to Mars (Done)
+
+
