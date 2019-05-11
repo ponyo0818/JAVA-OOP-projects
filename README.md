@@ -13,3 +13,4 @@ This course covers a variety of somewhat advanced topics in Java:
 
 
 Project 1: Guess the movie (Done)
+Project 2: Mission to Mars (Done)
