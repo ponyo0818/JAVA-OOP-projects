@@ -1,5 +1,6 @@
 public class Rocket implements SpaceShip {
 
+
     /**
      *  launch and land methods in the Rocket class should always return true. When U1 and U2
      *  classes extend the Rocket class they will override these methods to return true or
@@ -7,6 +8,8 @@ public class Rocket implements SpaceShip {
      * @return
      */
     int currentWeight = 0;
+    int rocketCost;
+
     @Override
     public boolean launch() {
         return true;
