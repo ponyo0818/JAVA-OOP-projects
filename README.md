@@ -2,7 +2,7 @@
 
 Object Oriented Programming in Java
 
-The link of the course
+The link of the course:
 https://classroom.udacity.com/courses/ud283
 
 Here are all the practises and projects in this course
