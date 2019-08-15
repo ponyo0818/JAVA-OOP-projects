@@ -1,6 +1,7 @@
 # JAVA-oop-programming-projects
 
 Object Oriented Programming in Java
+Udacity course
 
 The link of the course:
 https://classroom.udacity.com/courses/ud283
